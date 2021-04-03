@@ -16,8 +16,8 @@ public class FormTest {
     static void setup() {
         Configuration.startMaximized = true;
     }
-    @Test
 
+    @Test
     void testForm()  {
         String firstName = "Иван",
                 lastName = "Иванов",
