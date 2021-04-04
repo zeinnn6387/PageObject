@@ -3,7 +3,7 @@ package pageobjects.scenarios;
 import java.io.File;
 
 import com.github.javafaker.Faker;
-import org.apache.hc.core5.http.impl.EnglishReasonPhraseCatalog;
+
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
