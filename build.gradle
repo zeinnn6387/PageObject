@@ -16,8 +16,6 @@ dependencies {
             "org.junit.jupiter:junit-jupiter-api:$junitVersion")
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:$junitVersion"
     testRuntime 'com.browserup:browserup-proxy-core:2.0.1'
-
-
 }
 
 tasks.withType(JavaCompile) {
